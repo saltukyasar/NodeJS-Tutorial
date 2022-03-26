@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "step by step nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltukyasar/NodeJS-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltukyasar/NodeJS-Tutorial/issues"
+  },
+  "homepage": "https://github.com/saltukyasar/NodeJS-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
