@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "node test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltukyasar/NodeJS-Tutorial.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltukyasar/NodeJS-Tutorial/issues"
+  },
+  "homepage": "https://github.com/saltukyasar/NodeJS-Tutorial#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
